@@ -12,6 +12,6 @@ The project build a dashboard with dynamic charts that both research participant
 
 Webpage view
 
-<img src="https://github.com/Jponce25/UFOs/blob/384fccf7263c0f9464fca55dda21fdba1a557fac/static/images/1.png" width="680">
+<img src="https://github.com/Jponce25/Bellybutton-plotly/blob/ed308cafba80162d49204a22ccc080b2cec7045d/images/Webview.png" width="680">
 
 https://jponce25.github.io/Bellybutton-plotly/
